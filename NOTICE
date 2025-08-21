@@ -1,0 +1,9 @@
+Project: QuadFace LED Animation with PIR
+
+Software (Arduino sketches, headers, .ino/.cpp): MIT License (see LICENSE)
+Hardware design files (if present): CERN-OHL-S v2.0 (see LICENSES/CERN-OHL-S-2.0.txt)
+Documentation & media (README, images): CC BY-SA 4.0 (see LICENSES/CC-BY-SA-4.0.txt)
+
+This structure aligns with the Fab Lab Charter’s emphasis on openness and
+knowledge sharing. If you fork, please keep this NOTICE and credit original
+contributors in your README.
