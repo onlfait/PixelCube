@@ -1,8 +1,6 @@
-# README.md
-![PixelCube printing](https://github.com/onlfait/PixelCube/blob/main/img/PixelCube.gif)
-
 ## Pixel Cube LED Animation with PIR (Arduino + FastLED)
 
+![PixelCube printing](https://github.com/onlfait/PixelCube/blob/main/img/PixelCube.gif)
 Animated Pac‑style ghost across four LED matrix faces, triggered by a PIR motion sensor. Designed for Arduino (AVR) with **FastLED** and four separate LED outputs that share a single buffer.
 
 ### Features
