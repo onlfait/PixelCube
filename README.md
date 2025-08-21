@@ -1,4 +1,5 @@
 # README.md
+![PixelCube printing](https://github.com/onlfait/PixelCube/blob/main/img/PixelCube.gif)
 
 ## Pixel Cube LED Animation with PIR (Arduino + FastLED)
 
