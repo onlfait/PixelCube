@@ -58,21 +58,6 @@ Animated Pac‑style ghost across four LED matrix faces, triggered by a PIR moti
 * On AVR, RAM is tight. Using a single 256‑LED buffer keeps memory usage low while still driving four faces.
 * PROGMEM reduces SRAM pressure. Keep only the animation frames you actually use.
 
-### Repository Structure
-
-```
-.
-├── README.md
-├── src/
-│    ├── PixelCube/
-│    		└── PixelCube.ino
-├── LICENSE              # MIT for software (this Arduino code)
-├── LICENSES/
-│   ├── CERN-OHL-S-2.0.txt   # For hardware designs (if/when you add them)
-│   └── CC-BY-SA-4.0.txt     # For documentation & images
-└── NOTICE
-```
-
 ### Licensing
 
 This project follows Fab Lab–friendly open licensing:
